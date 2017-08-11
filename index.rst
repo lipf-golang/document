@@ -7,9 +7,6 @@ Welcome to Golang 碎片's documentation!
 =======================================
 
 
-.. image:: _static/golang.jpg
-   :width: 60%
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
